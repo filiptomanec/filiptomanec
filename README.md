@@ -43,13 +43,9 @@ Here are some of the technologies I work with:
 
 Check out my repositories to see the projects I've worked on. I strive to keep my code clean and well-documented.
 
-## 📈 Stats
-
-![Filip's GitHub stats](https://github-readme-stats.vercel.app/api?username=[filiptomanec]&show_icons=true&theme=radical)
-
 ## 🤝 Connect with Me
 
-- LinkedIn: [linkedin.com/in/filip-tomanec-568b97173](www.linkedin.com/in/filip-tomanec-568b97173)
-- Email: [tomanec.f@gmail.com](mailto:tomanec.f@gmail.com)
+- LinkedIn: www.linkedin.com/in/filip-tomanec-568b97173
+- Email: tomanec.f@gmail.com
 
 ---
