@@ -45,11 +45,11 @@ Check out my repositories to see the projects I've worked on. I strive to keep m
 
 ## 📈 Stats
 
-![Filip's GitHub stats](https://github-readme-stats.vercel.app/api?username=[YourGitHubUsername]&show_icons=true&theme=radical)
+![Filip's GitHub stats](https://github-readme-stats.vercel.app/api?username=[filiptomanec]&show_icons=true&theme=radical)
 
 ## 🤝 Connect with Me
 
-- LinkedIn: [Your LinkedIn](www.linkedin.com/in/filip-tomanec-568b97173)
-- Email: [Your Email](mailto:tomanec.f@gmail.com)
+- LinkedIn: [linkedin.com/in/filip-tomanec-568b97173](www.linkedin.com/in/filip-tomanec-568b97173)
+- Email: [tomanec.f@gmail.com](mailto:tomanec.f@gmail.com)
 
 ---
