@@ -46,6 +46,7 @@ Check out my repositories to see the projects I've worked on. I strive to keep m
 ## 🤝 Connect with Me
 
 - LinkedIn: www.linkedin.com/in/filip-tomanec-568b97173
+- Web: http://www.filiptomanec.cz/
 - Email: tomanec.f@gmail.com
 
 ---
